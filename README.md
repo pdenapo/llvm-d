@@ -1,3 +1,5 @@
+This a forked repository. With only the modifications needed for building in my machine (Debian GNU/Linux system).
+
 llvm-d
 ========
 
