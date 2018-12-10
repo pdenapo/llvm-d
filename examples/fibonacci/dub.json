@@ -16,7 +16,7 @@
     "configurations": [
         {
             "name": "link-single",
-            "libs": ["LLVM"]
+            "libs" : ["LLVM-6.0"]
         },
         {
             "name": "link-split",
